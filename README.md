@@ -29,6 +29,17 @@ This project is a Python-based tool designed to extract product information from
 
 ---
 
+## 🔐 Source Code Access
+
+This repository is private and not publicly accessible.
+If you are interested in a demo or collaboration, feel free to reach out.
+- 📧 Email: baranakf@gmail.com
+
+## ⚠️ Disclaimer
+
+This project is intended for legal, ethical, and permitted use only.
+Always respect the terms of service and scraping policies of target websites before using this tool in production.
+
 ## 📂 Sample XML Output
 
 ```xml
@@ -44,5 +55,4 @@ This project is a Python-based tool designed to extract product information from
     </Variant>
   </Variants>
 </Product>
-
 
